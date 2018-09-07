@@ -1,7 +1,6 @@
 {
-  "name": "de",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-study",
+  "version": "1.1.0",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
@@ -12,5 +11,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-markdown": "^3.6.0"
   }
 }
