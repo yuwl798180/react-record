@@ -33,4 +33,5 @@ git config --global core.safecrlf true
 
 ## 一些知识点
 
-[react knowledge](./React-Knowledge.md)
+1. [react knowledge](knowledge-react.md)
+1. [redux knowledge](knowledge-redux.md)
